@@ -1,4 +1,4 @@
-baseURL = 'http://ongshunping.com/'
+baseURL = 'https://ongshunping.com'
 languageCode = 'en-us'
 title = "Shunping's Blog"
 theme = 'hugo-tania'
