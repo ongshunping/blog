@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ongshunping.github.io/blog/</loc>
+    <loc>ongshunping.com/</loc>
+    <lastmod>2024-06-13T11:07:50+08:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>ongshunping.com/post/</loc>
     <lastmod>2024-06-13T11:07:50+08:00</lastmod>
   </url><url>
-    <loc>https://ongshunping.github.io/blog/post/</loc>
+    <loc>ongshunping.com/post/test/</loc>
     <lastmod>2024-06-13T11:07:50+08:00</lastmod>
   </url><url>
-    <loc>https://ongshunping.github.io/blog/post/test/</loc>
-    <lastmod>2024-06-13T11:07:50+08:00</lastmod>
+    <loc>ongshunping.com/archives/</loc>
   </url><url>
-    <loc>https://ongshunping.github.io/blog/categories/</loc>
+    <loc>ongshunping.com/categories/</loc>
   </url><url>
-    <loc>https://ongshunping.github.io/blog/tags/</loc>
+    <loc>ongshunping.com/tags/</loc>
   </url>
 </urlset>
