@@ -1,6 +1,6 @@
 baseURL = 'https://ongshunping.com'
 languageCode = 'en-us'
-title = "Shunping's Blog"
+title = "Shun Ping"
 theme = 'hugo-tania'
 paginate = 6
 
@@ -15,7 +15,7 @@ titleLogo = ""
 # Default to true
 enableFootnotes = true
 
-siteName = "Shunping's Blog"
+siteName = "Shun Ping"
 siteDesc = "👋"
 author = "Ong Shun Ping"
 
