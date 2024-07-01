@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shunping&#39;s Blog</title>
-    <link>http://ongshunping.com/tags/</link>
+    <link>https://ongshunping.com/tags/</link>
     <description>Recent content in Tags on Shunping&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://ongshunping.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ongshunping.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

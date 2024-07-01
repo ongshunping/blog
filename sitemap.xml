@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ongshunping.com/</loc>
+    <loc>https://ongshunping.com/</loc>
     <lastmod>2024-06-13T11:07:50+08:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>http://ongshunping.com/post/</loc>
+    <loc>https://ongshunping.com/post/</loc>
     <lastmod>2024-06-13T11:07:50+08:00</lastmod>
   </url><url>
-    <loc>http://ongshunping.com/post/test/</loc>
+    <loc>https://ongshunping.com/post/test/</loc>
     <lastmod>2024-06-13T11:07:50+08:00</lastmod>
   </url><url>
-    <loc>http://ongshunping.com/archives/</loc>
+    <loc>https://ongshunping.com/archives/</loc>
   </url><url>
-    <loc>http://ongshunping.com/categories/</loc>
+    <loc>https://ongshunping.com/categories/</loc>
   </url><url>
-    <loc>http://ongshunping.com/tags/</loc>
+    <loc>https://ongshunping.com/tags/</loc>
   </url>
 </urlset>
